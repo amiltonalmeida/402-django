@@ -1,0 +1,13 @@
+body{
+    background-color: aqua;
+    
+}
+h1{
+    font-size: 36pt;
+    text-align: center;
+    display: flex;
+}
+img{
+    width: 400px;
+    
+}
